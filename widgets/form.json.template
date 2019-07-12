@@ -1,0 +1,14 @@
+{
+	[ 
+		 {
+			 "type": "text",
+		     "name": "age", 
+		 } ,
+		 {
+			 "type": "select",
+			 "name": "age", ,
+			 "options":  [ "value1","value1","value1" ]  
+	     }
+	] 
+}
+  
