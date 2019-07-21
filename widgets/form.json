@@ -1,5 +1,5 @@
 {
-	"widget": "sensors",
+	"widget": "name", 
 	"fields":
 	       [
 				{"type": "text","name": "f1"},

@@ -1,14 +1,17 @@
 {
-	[ 
-		 {
-			 "type": "text",
-		     "name": "f1", 
-		 } ,
-		  {
-			 "type": "text",
-		     "name": "f2", 
-		 } 
-		
-	] 
+		"widget": "form",
+		"fields":
+			   [
+			   		{"type": "separator","name": "Dati tecnici"},
+					{"type": "text","name": "autore"},
+					{"type": "text","name": "titolo"},
+					{"type": "text","name": "casaeditrice"},
+					{"type": "text","name": "pagine"},
+					{"type": "text","name": "prezzo"},
+					{"type": "text","name": "note"},
+					{"type": "text","name": "wwwAutore"},
+					{"type": "separator","name": "Recensione"},
+					{"type": "text","name": "titolo recensione"},
+					{"type": "text","name": "recensione"}
+				]
 }
- 

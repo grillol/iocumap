@@ -1,14 +1,8 @@
 {
-	[ 
-		 {
-			 "type": "text",
-		     "name": "age", 
-		 } ,
-		 {
-			 "type": "select",
-			 "name": "age", ,
-			 "options":  [ "value1","value1","value1" ]  
-	     }
-	] 
+	"widget": "observation", 
+	"fields":
+	       [
+				{"type": "text","name": "observ1"},
+				{"type": "text","name": "ovserv2"}
+			]
 }
- 

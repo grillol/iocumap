@@ -1,0 +1,794 @@
+
+2019-07-21 10:37:07 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:37:07 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:37:07 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert DONE - insertID: 76 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert DONE - insertID: 77 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeInsert DONE - insertID: 78 
+2019-07-21 10:37:07 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:41:28 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:41:28 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:41:28 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:41:28 - FROM: widgets.php - there are no widgets in the db yet 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 79 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 80 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 81 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 82 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 83 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 84 
+2019-07-21 10:41:49 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:41:49 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:41:49 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert DONE - insertID: 85 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert DONE - insertID: 86 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeInsert DONE - insertID: 87 
+2019-07-21 10:41:49 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:43:09 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:43:09 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:43:09 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:43:09 - FROM: widgets.php - there are no widgets in the db yet 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 88 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 89 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 90 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 91 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 92 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 93 
+2019-07-21 10:43:16 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:43:16 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:43:16 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 94 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 95 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 96 
+2019-07-21 10:43:16 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:45:42 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:45:42 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:45:42 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert DONE - insertID: 97 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert DONE - insertID: 98 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeInsert DONE - insertID: 99 
+2019-07-21 10:45:42 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:22 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:22 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:22 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert DONE - insertID: 100 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert DONE - insertID: 101 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeInsert DONE - insertID: 102 
+2019-07-21 10:46:22 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:24 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:24 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:24 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert DONE - insertID: 103 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert DONE - insertID: 104 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeInsert DONE - insertID: 105 
+2019-07-21 10:46:24 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:25 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:25 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:25 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert DONE - insertID: 106 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert DONE - insertID: 107 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeInsert DONE - insertID: 108 
+2019-07-21 10:46:25 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:27 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:27 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:27 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert DONE - insertID: 109 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert DONE - insertID: 110 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeInsert DONE - insertID: 111 
+2019-07-21 10:46:27 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:28 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:28 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:28 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 112 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 113 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeInsert DONE - insertID: 114 
+2019-07-21 10:46:28 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:46:29 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:46:29 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:46:29 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 115 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 116 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 117 
+2019-07-21 10:46:29 - FROM: dbcontroller.php - executeQuery  
+2019-07-21 10:49:00 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:00 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:00 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert DONE - insertID: 118 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert DONE - insertID: 119 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:00 - FROM: dbcontroller.php - executeInsert DONE - insertID: 120 
+2019-07-21 10:49:02 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:02 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:02 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert DONE - insertID: 121 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert DONE - insertID: 122 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:02 - FROM: dbcontroller.php - executeInsert DONE - insertID: 123 
+2019-07-21 10:49:03 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:03 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:03 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert DONE - insertID: 124 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert DONE - insertID: 125 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:03 - FROM: dbcontroller.php - executeInsert DONE - insertID: 126 
+2019-07-21 10:49:04 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:04 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:04 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert DONE - insertID: 127 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert DONE - insertID: 128 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:04 - FROM: dbcontroller.php - executeInsert DONE - insertID: 129 
+2019-07-21 10:49:05 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:05 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:05 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert DONE - insertID: 130 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert DONE - insertID: 131 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:05 - FROM: dbcontroller.php - executeInsert DONE - insertID: 132 
+2019-07-21 10:49:06 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:06 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:06 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 133 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 134 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 135 
+2019-07-21 10:49:08 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:08 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:08 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 136 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 137 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 138 
+2019-07-21 10:49:08 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:08 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:08 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 139 
+2019-07-21 10:49:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 140 
+2019-07-21 10:49:09 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:09 - FROM: dbcontroller.php - executeInsert DONE - insertID: 141 
+2019-07-21 10:49:10 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:10 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:10 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert DONE - insertID: 142 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert DONE - insertID: 143 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:10 - FROM: dbcontroller.php - executeInsert DONE - insertID: 144 
+2019-07-21 10:49:11 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:11 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:11 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 145 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 146 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 147 
+2019-07-21 10:49:12 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:12 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:12 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert DONE - insertID: 148 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert DONE - insertID: 149 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:12 - FROM: dbcontroller.php - executeInsert DONE - insertID: 150 
+2019-07-21 10:49:13 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:13 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:13 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 151 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 152 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 153 
+2019-07-21 10:49:14 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:14 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:14 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert DONE - insertID: 154 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert DONE - insertID: 155 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:14 - FROM: dbcontroller.php - executeInsert DONE - insertID: 156 
+2019-07-21 10:49:15 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:15 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:15 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 157 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 158 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 159 
+2019-07-21 10:49:16 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:49:16 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:49:16 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 160 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 161 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:49:16 - FROM: dbcontroller.php - executeInsert DONE - insertID: 162 
+2019-07-21 10:50:20 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:50:20 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:50:20 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:50:20 - FROM: widgets.php - there are no widgets in the db yet 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 163 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 164 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 165 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 166 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 167 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:50:20 - FROM: dbcontroller.php - executeInsert DONE - insertID: 168 
+2019-07-21 10:52:46 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:52:46 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:52:46 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert DONE - insertID: 169 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert DONE - insertID: 170 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:46 - FROM: dbcontroller.php - executeInsert DONE - insertID: 171 
+2019-07-21 10:52:48 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:52:48 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:52:48 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert DONE - insertID: 172 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert DONE - insertID: 173 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:48 - FROM: dbcontroller.php - executeInsert DONE - insertID: 174 
+2019-07-21 10:52:52 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:52:52 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:52:52 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert DONE - insertID: 175 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert DONE - insertID: 176 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:52 - FROM: dbcontroller.php - executeInsert DONE - insertID: 177 
+2019-07-21 10:52:55 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:52:55 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:52:55 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert DONE - insertID: 178 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert DONE - insertID: 179 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:52:55 - FROM: dbcontroller.php - executeInsert DONE - insertID: 180 
+2019-07-21 10:54:13 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:54:13 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:54:13 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 181 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 182 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:54:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 183 
+2019-07-21 10:55:01 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:55:01 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:55:01 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert DONE - insertID: 184 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert DONE - insertID: 185 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:01 - FROM: dbcontroller.php - executeInsert DONE - insertID: 186 
+2019-07-21 10:55:06 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:55:06 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:55:06 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 187 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 188 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:55:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 189 
+2019-07-21 10:56:23 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:56:23 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:56:23 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:56:30 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:56:30 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:56:30 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:56:33 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:56:33 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:56:33 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:56:39 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:56:39 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:56:39 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:57:37 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:57:37 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:57:37 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert DONE - insertID: 190 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert DONE - insertID: 191 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:57:37 - FROM: dbcontroller.php - executeInsert DONE - insertID: 192 
+2019-07-21 10:58:15 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 10:58:15 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 10:58:15 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 193 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 194 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 10:58:15 - FROM: dbcontroller.php - executeInsert DONE - insertID: 195 
+2019-07-21 11:03:51 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:03:51 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:03:51 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert DONE - insertID: 196 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert DONE - insertID: 197 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:51 - FROM: dbcontroller.php - executeInsert DONE - insertID: 198 
+2019-07-21 11:03:56 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:03:56 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:03:56 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert DONE - insertID: 199 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert DONE - insertID: 200 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:03:56 - FROM: dbcontroller.php - executeInsert DONE - insertID: 201 
+2019-07-21 11:05:40 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:05:40 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:05:40 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:06:26 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:06:26 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:06:26 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert DONE - insertID: 202 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert DONE - insertID: 203 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:06:26 - FROM: dbcontroller.php - executeInsert DONE - insertID: 204 
+2019-07-21 11:07:08 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:07:08 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:07:08 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 205 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 206 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:08 - FROM: dbcontroller.php - executeInsert DONE - insertID: 207 
+2019-07-21 11:07:11 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:07:11 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:07:11 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 208 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 209 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:11 - FROM: dbcontroller.php - executeInsert DONE - insertID: 210 
+2019-07-21 11:07:29 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:07:29 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:07:29 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 211 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 212 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:29 - FROM: dbcontroller.php - executeInsert DONE - insertID: 213 
+2019-07-21 11:07:31 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:07:31 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:07:31 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert DONE - insertID: 214 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert DONE - insertID: 215 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:07:31 - FROM: dbcontroller.php - executeInsert DONE - insertID: 216 
+2019-07-21 11:08:16 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:16 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:16 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:22 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:22 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:22 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:24 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:24 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:24 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:26 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:26 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:26 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:28 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:28 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:28 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:29 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:29 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:29 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:45 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:45 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:45 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert DONE - insertID: 217 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert DONE - insertID: 218 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:08:45 - FROM: dbcontroller.php - executeInsert DONE - insertID: 219 
+2019-07-21 11:08:47 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:47 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:47 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:48 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:48 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:48 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:49 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:49 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:49 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:08:50 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:08:50 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:08:50 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:10:06 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:10:06 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:10:06 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 220 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 221 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:10:06 - FROM: dbcontroller.php - executeInsert DONE - insertID: 222 
+2019-07-21 11:14:46 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:14:46 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:14:46 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:14:51 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:14:51 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:14:51 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:14:52 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:14:52 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:14:52 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:14:53 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:14:53 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:14:53 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:15:13 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:15:13 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:15:13 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "form", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 223 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "observation", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 224 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert INSERT INTO widgets (id, name, registrationDate, user) VALUES (NULL, "sensors", CURRENT_TIMESTAMP, "") 
+2019-07-21 11:15:13 - FROM: dbcontroller.php - executeInsert DONE - insertID: 225 
+2019-07-21 11:15:16 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:15:16 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:15:16 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:15:17 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:15:17 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:15:17 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:16:46 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:16:46 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:16:46 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:16:55 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery SELECT * from poi 
+2019-07-21 11:16:55 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:17:26 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery SELECT * from poi 
+2019-07-21 11:17:26 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:17:28 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:17:28 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:17:28 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:23 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery SELECT * from poi 
+2019-07-21 11:18:23 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:26 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:18:26 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:18:26 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:34 - FROM: add.php - PARAMETERS GET = lat: 37.50359533825413 lng:14.114685058593752 data:[    {        "name": "widget",        "value": "form"    },    {        "name": "autore",        "value": "aaaaaaaaaaa"    },    {        "name": "titolo",        "value": ""    },    {        "name": "casaeditrice",        "value": ""    },    {        "name": "pagine",        "value": ""    },    {        "name": "prezzo",        "value": ""    },    {        "name": "note",        "value": ""    },    {        "name": "wwwAutore",        "value": ""    },    {        "name": "titolo recensione",        "value": ""    },    {        "name": "recensione",        "value": ""    }] widget:form  decription:
+ 
+2019-07-21 11:18:34 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select id from poi where lat=37.50359533825413 and lng=14.114685058593752 
+2019-07-21 11:18:34 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:34 - FROM: insertPOI - 37.50359533825413,14.114685058593752,stringEscape() 
+2019-07-21 11:18:34 - FROM: dbcontroller.php - executeInsert INSERT INTO  poi (id ,lat,lng,description,dataRegistration,userID)
+				 VALUES (NULL ,  37.50359533825413,  14.114685058593752,"", CURRENT_TIMESTAMP , NULL); 
+2019-07-21 11:18:34 - FROM: dbcontroller.php - executeInsert DONE - insertID: 133 
+2019-07-21 11:18:34 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select id from widgets where name="form" 
+2019-07-21 11:18:34 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:34 - FROM: insertPOST - 133,Array,stringEscape([    {        "name": "widget",        "value": "form"    },    {        "name": "autore",        "value": "aaaaaaaaaaa"    },    {        "name": "titolo",        "value": ""    },    {        "name": "casaeditrice",        "value": ""    },    {        "name": "pagine",        "value": ""    },    {        "name": "prezzo",        "value": ""    },    {        "name": "note",        "value": ""    },    {        "name": "wwwAutore",        "value": ""    },    {        "name": "titolo recensione",        "value": ""    },    {        "name": "recensione",        "value": ""    }]) 
+2019-07-21 11:18:34 - FROM: dbcontroller.php - executeInsert INSERT INTO posts (id, id_poi, id_widget, data, dataRegistration, user) 
+		        VALUES (NULL, 133, Array, "[    {        \"name\": \"widget\",        \"value\": \"form\"    },    {        \"name\": \"autore\",        \"value\": \"aaaaaaaaaaa\"    },    {        \"name\": \"titolo\",        \"value\": \"\"    },    {        \"name\": \"casaeditrice\",        \"value\": \"\"    },    {        \"name\": \"pagine\",        \"value\": \"\"    },    {        \"name\": \"prezzo\",        \"value\": \"\"    },    {        \"name\": \"note\",        \"value\": \"\"    },    {        \"name\": \"wwwAutore\",        \"value\": \"\"    },    {        \"name\": \"titolo recensione\",        \"value\": \"\"    },    {        \"name\": \"recensione\",        \"value\": \"\"    }]", CURRENT_TIMESTAMP, NULL) 
+2019-07-21 11:18:34 - FROM: dbcontroller.php - executeInsert DONE - insertID: 0 
+2019-07-21 11:18:41 - FROM: widgets.php - Entato dentro widgets.php
+ 
+2019-07-21 11:18:41 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select name from widgets 
+2019-07-21 11:18:41 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:49 - FROM: add.php - PARAMETERS GET = lat: 38.110874051981575 lng:13.334655761718752 data:[    {        "name": "widget",        "value": "sensors"    },    {        "name": "f1",        "value": ""    },    {        "name": "f2",        "value": "aaaaaaaaaaa"    }] widget:sensors  decription:
+ 
+2019-07-21 11:18:49 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select id from poi where lat=38.110874051981575 and lng=13.334655761718752 
+2019-07-21 11:18:49 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:49 - FROM: insertPOI - 38.110874051981575,13.334655761718752,stringEscape() 
+2019-07-21 11:18:49 - FROM: dbcontroller.php - executeInsert INSERT INTO  poi (id ,lat,lng,description,dataRegistration,userID)
+				 VALUES (NULL ,  38.110874051981575,  13.334655761718752,"", CURRENT_TIMESTAMP , NULL); 
+2019-07-21 11:18:49 - FROM: dbcontroller.php - executeInsert DONE - insertID: 134 
+2019-07-21 11:18:49 - FROM: dbcontroller.php->runSelectQuery - runSelectQuery select id from widgets where name="sensors" 
+2019-07-21 11:18:49 - FROM: dbcontroller.php->runSelectQuery -  
+ runSelectQuery result Array
+ 
+2019-07-21 11:18:49 - FROM: insertPOST - 134,Array,stringEscape([    {        "name": "widget",        "value": "sensors"    },    {        "name": "f1",        "value": ""    },    {        "name": "f2",        "value": "aaaaaaaaaaa"    }]) 
+2019-07-21 11:18:49 - FROM: dbcontroller.php - executeInsert INSERT INTO posts (id, id_poi, id_widget, data, dataRegistration, user) 
+		        VALUES (NULL, 134, Array, "[    {        \"name\": \"widget\",        \"value\": \"sensors\"    },    {        \"name\": \"f1\",        \"value\": \"\"    },    {        \"name\": \"f2\",        \"value\": \"aaaaaaaaaaa\"    }]", CURRENT_TIMESTAMP, NULL) 
+2019-07-21 11:18:49 - FROM: dbcontroller.php - executeInsert DONE - insertID: 0 
