@@ -17,10 +17,10 @@
 
 class DBController {
 	private $conn = "";
-	private $host = "89.46.111.49";
-	private $user = "Sql1127014";
-	private $password = "827r224040";
-	private $database = "Sql1127014_5";
+	private $host = "";
+	private $user = "";
+	private $password = "";
+	private $database = "";
 
 	function __construct() {
 		$conn = $this->connectDB();
